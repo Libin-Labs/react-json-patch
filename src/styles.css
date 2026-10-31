@@ -1,0 +1,8 @@
+.lp-json-patch {
+  display: grid;
+  gap: 0.75rem;
+}
+.lp-json-patch output {
+  white-space: pre-wrap;
+  font-family: ui-monospace, monospace;
+}
